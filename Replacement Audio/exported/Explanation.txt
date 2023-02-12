@@ -1,3 +1,3 @@
 Put your audio files that you want to replace in here. 
-Make sure they are called Audio[#] where the number is between 1 and 200. 
+Make sure they are called Audio[#] where the number is between 1 and 500. 
 Whatever files in Original Audio and here share the same names are going to be searched and replaced in WZSound.brsar
