@@ -1,2 +1,0 @@
-Export Audio Files from WZSound.brsar and place them here.
-Make sure they are called Audio[#] where the number is between 1 and 500
