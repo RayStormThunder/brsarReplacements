@@ -2,7 +2,7 @@ Get your WZSound.brsar and place it in the root folder which is the folder this 
 
 Now export the audio files that you want to change from the WZSound.brsar and place them in Original Audio > exported.
 
-They must be named Audio[{Any number between 1 and 200}] eg. Audio[12], Audio[1], Audio[199]
+They must be named Audio[{Any number between 1 and 500}] eg. Audio[12], Audio[1], Audio[199]
 
 Finally place the files that you want to replace those files with in Replacement Audio > exported
 
